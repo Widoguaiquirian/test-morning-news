@@ -1,0 +1,36 @@
+/* CSS Stylesheet T.O.C. - Table of contents */
+/* Created 20 February 2021 */
+/* Last update Feb-22-2021 */
+/* Version de prueba, no es tarea oficial */
+
+
+/* Compatible Browser: */
+/* Firefox V....## */
+/* Chrome V....## */
+/* Safari V....## */
+
+
+/* =RESET % CONDITIONAL COMMENT */
+/* =GENERAL */
+/* =LAYOUT: CENTERED/FIXED */
+/* =PAGES
+      =Index
+      =Men
+      =Woman
+      =Categories
+      =Brands
+*/
+
+
+/*       RESET      */
+
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,var,b,u,i,center,
+dl,dt,dd,ol,ul,li,fieldset,form,label,legend,caption,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video
+{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {display:block}
+body {line-height:1.5}
+ol,ul {list-style:none}
+
+
+
+/* GENERAL */
